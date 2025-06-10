@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="image_view_desc">Image sélectionnée</string>
+</resources>
